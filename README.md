@@ -13,7 +13,7 @@ A web server with PHP support (e.g., Apache, Nginx)
 Basic knowledge of PHP and HTML/CSS
 Installation
 Clone the repository:
-git clone https://github.com/IkrashHaroon/simple-to-do-list.git
+git clone https://github.com/IkrashHaroon/To-do-list-php.git
 cd simple-to-do-list
 
 Setup the project:
