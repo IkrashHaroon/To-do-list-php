@@ -10,7 +10,7 @@ Minimalistic UI: A clean and user-friendly interface designed with simplicity an
 Getting Started
 Prerequisites
 A web server with PHP support (e.g., Apache, Nginx)
-Basic knowledge of PHP and HTML/CSS
+Basic knowledge of PHP and HTML 5 /CSS 3
 Installation
 Clone the repository:
 git clone https://github.com/IkrashHaroon/To-do-list-php.git
