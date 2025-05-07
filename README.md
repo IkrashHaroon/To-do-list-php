@@ -2,17 +2,17 @@ Simple To-Do List
 Welcome to the Simple To-Do List application! This project is a clean and straightforward to-do list web application built with PHP, HTML, CSS, and JavaScript. It allows users to add and manage their tasks with an elegant and intuitive user interface. The application leverages a modern modal-based confirmation for task deletions, enhancing the user experience.
 
 Features
-Add Tasks: Quickly add new tasks to your to-do list using the input form.
-Delete Tasks: Remove tasks seamlessly with a confirmation modal to avoid accidental deletions.
-Persistent Storage: Tasks are saved to a todo.txt file, ensuring they persist across sessions.
-Responsive Design: The application is fully responsive, providing an optimal experience on both desktop and mobile devices.
-Minimalistic UI: A clean and user-friendly interface designed with simplicity and usability in mind.
+**Add Tasks**: Quickly add new tasks to your to-do list using the input form.
+**Delete Tasks**: Remove tasks seamlessly with a confirmation modal to avoid accidental deletions.
+**Persistent Storage**: Tasks are saved to a todo.txt file, ensuring they persist across sessions.
+**Responsive Design**: The application is fully responsive, providing an optimal experience on both desktop and mobile devices.
+**Minimalistic UI**: A clean and user-friendly interface designed with simplicity and usability in mind.
 Getting Started
 Prerequisites
 A web server with PHP support (e.g., Apache, Nginx)
 Basic knowledge of PHP and HTML 5 /CSS 3
 Installation
-Clone the repository:
+**Clone the repository**:
 git clone https://github.com/IkrashHaroon/To-do-list-php.git
 cd simple-to-do-list
 
