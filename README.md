@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Simple To-Do List 📃</strong></h1>
-Welcome to the Simple To-Do List application! This project is a clean and straightforward to-do list web application built with PHP, HTML, CSS, and JavaScript. It allows users to add and manage their tasks with an elegant and intuitive user interface. The application leverages a modern modal-based confirmation for task deletions, enhancing the user experience.
+Welcome to the Simple To-Do List application! This project is a clean and straightforward to-do list web application built with PHP, HTML 5, CSS 3, and JavaScript. It allows users to add and manage their tasks with an elegant and intuitive user interface. The application leverages a modern modal-based confirmation for task deletions, enhancing the user experience.
 
 Features
 **Add Tasks**: Quickly add new tasks to your to-do list using the input form.
@@ -47,4 +47,4 @@ If you have any questions, suggestions, or issues, please open an issue on the G
 
 Enjoy a simplified approach to managing your tasks with the Simple To-Do List application!
 
-### 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)
+## 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)
